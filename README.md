@@ -6,4 +6,4 @@ Languages used:
 - CSS
 - JavaScript
 
-You can check the demo [here](https://andre1karl.github.io/drumtest/). 
+You can check the demo [here](https://andre1karl.github.io/rockpaperscissorstest/). 
